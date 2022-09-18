@@ -1,0 +1,76 @@
+
+f	java:S117:"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì½ú÷
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶øû¥şÿÿÿÿ
+l	java:S117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ì“ùÿÿÿÿ
+s	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¾Ú÷ùÿÿÿÿ8¾Ş¼Ë±0
+y
+java:S1488y"^Immediately return this expression instead of assigning it to the temporary variable "ranNum".(ç¨Ùüÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+]
+java:S2184~"BCast one of the operands of this division operation to a "double".(Ì é³ıÿÿÿÿ
+_
+java:S6353,"=Use concise character class syntax '\\D' instead of '[^0-9]'.(¯Çü–ûÿÿÿÿ8¬§ËË±0
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÃÙÊ‹ıÿÿÿÿ8¯§ËË±0
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÃÙÊ‹ıÿÿÿÿ8°§ËË±0
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÃÙÊ‹ıÿÿÿÿ8¸§ËË±0
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÃÙÊ‹ıÿÿÿÿ8È§ËË±0
+^
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÃÙÊ‹ıÿÿÿÿ8×§ËË±0
+Z
+java:S63535"=Use concise character class syntax '\\D' instead of '[^0-9]'.(¶æòİ8æ§ËË±0
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(·Áş98õ§ËË±0
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(·Áş98…¨ËË±0
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(·Áş98”¨ËË±0
+X
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(·Áş98£¨ËË±0
+o
+java:S3776:"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ì½ú÷8ºî¼Ë±0
+H
+java:S1905R"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ8á¬àî°0
+H
+java:S1905b"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ8á¬àî°0
+^
+java:S1126o"AReplace this if-then-else statement by a single return statement.(ï÷î£8ãî¼Ë±0
+D
+java:S2140y")Use "java.util.Random.nextInt()" instead.(ç¨Ùüÿÿÿÿ
+A
+java:S2185~"&Remove this silly call to "Math.floor"(Ì é³ıÿÿÿÿ
+R
+java:S1854›";Remove this useless assignment to local variable "retorno".(éĞ–ò
+R	java:S125¯"<This block of commented-out lines of code should be removed.(¼×Ûú
+R	java:S125°"<This block of commented-out lines of code should be removed.(½¢è†
+R	java:S125±"<This block of commented-out lines of code should be removed.(Æòïë
+R	java:S125²"<This block of commented-out lines of code should be removed.(êÎ¾¡
+W
+java:S1854à"@Remove this useless assignment to local variable "numeroGerado".(Ö“Ã
+F
+java:S1481Í"/Remove this unused "nDigResult" local variable.(¶éˆ
+5
+java:S2119Ğ"Save and re-use this "Random".(Í“Šö
+[	java:S106õ"9Replace this use of System.out or System.err by a logger.(Ä¹ñ´ÿÿÿÿÿ8Ü¬àî°0
+?
+java:S1659ƒ"#Declare "dig11" on a separate line.(îùıøÿÿÿÿ
+\
+java:S1659„">Declare "i" and all following declarations on a separate line.(¸„áë8Ş¬àî°0
+I
+java:S1905"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ8è¬àî°0
+I
+java:S1905"&Remove this unnecessary cast to "int".(ÚËÍ¶ıÿÿÿÿ8ê¬àî°0
+u
+java:S3776³"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(³ì“ùÿÿÿÿ8ã¬àî°0
+:
+java:S1659»"#Declare "dig14" on a separate line.(Æî®ş
+\
+java:S1659¼">Declare "i" and all following declarations on a separate line.(¸„áë8å¬àî°0
+I
+java:S1905Ç"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ8·ğ¼Ë±0
+I
+java:S1905Ø"&Remove this unnecessary cast to "int".(ì¤¤»ûÿÿÿÿ8Æğ¼Ë±0

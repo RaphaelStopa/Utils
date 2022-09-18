@@ -1,0 +1,77 @@
+
+m
+java:S1192:"RDefine a constant instead of duplicating this literal "America/Sao_Paulo" 6 times.(Ï´åûÿÿÿÿ
+g
+java:S1192¿"PUse already-defined constant 'DD_MM_YYYY' instead of duplicating its value here.(î³ÉŒ
+t
+java:S1488z"^Immediately return this expression instead of assigning it to the temporary variable "result".(˜¥™²
+Q	java:S125X"<This block of commented-out lines of code should be removed.(»›Ñ‘
+Q	java:S125d"<This block of commented-out lines of code should be removed.(»›Ñ‘
+Q	java:S125q"<This block of commented-out lines of code should be removed.(»›Ñ‘
+V	java:S125x"<This block of commented-out lines of code should be removed.(…×¼Òúÿÿÿÿ
+R	java:S125"<This block of commented-out lines of code should be removed.(¾»½à
+R	java:S125‹"<This block of commented-out lines of code should be removed.(»›Ñ‘
+R	java:S125"<This block of commented-out lines of code should be removed.(¥¾ŠÙ
+X
+java:S6353–"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÊéÎ£ÿÿÿÿÿ
+X
+java:S6353–"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÊéÎ£ÿÿÿÿÿ
+X
+java:S6353–"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÊéÎ£ÿÿÿÿÿ
+R
+java:S1854Ñ";Remove this useless assignment to local variable "instant".(«¦Áö
+R
+java:S1854Å"6Remove this useless assignment to local variable "lt".(êºşòşÿÿÿÿ
+W
+java:S1854Â";Remove this useless assignment to local variable "dateNow".(ñ«Ò¨ÿÿÿÿÿ
+X
+java:S1854¿"ARemove this useless assignment to local variable "dateNowFormat".(î³ÉŒ
+R
+java:S1854¼"6Remove this useless assignment to local variable "dt".(©¦â«ÿÿÿÿÿ
+V
+java:S1854·":Remove this useless assignment to local variable "data03".(ºÚ·ÿÿÿÿÿ
+V
+java:S1854¶":Remove this useless assignment to local variable "data02".(ıÆ»Şùÿÿÿÿ
+S
+java:S6353§"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÿø¹ƒ
+S
+java:S6353§"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÿø¹ƒ
+S
+java:S6353§"<Use concise character class syntax '\\d' instead of '[0-9]'.(ÿø¹ƒ
+T	java:S106©"9Replace this use of System.out or System.err by a logger.(Ä¹ñ´ÿÿÿÿÿ
+T	java:S106­"9Replace this use of System.out or System.err by a logger.(Óáş¤ùÿÿÿÿ
+T	java:S106®"9Replace this use of System.out or System.err by a logger.(Ú‹¯üÿÿÿÿ
+T	java:S106¯"9Replace this use of System.out or System.err by a logger.(İ¿ıèûÿÿÿÿ
+O	java:S106°"9Replace this use of System.out or System.err by a logger.(Ûìß¾
+S
+java:S6353"=Use concise character class syntax '\\D' instead of '[^0-9]'.(¨ÿ¸
+G
+java:S1481¶"+Remove this unused "data02" local variable.(ıÆ»Şùÿÿÿÿ
+G
+java:S1481·"+Remove this unused "data03" local variable.(ºÚ·ÿÿÿÿÿ
+C
+java:S1481¼"'Remove this unused "dt" local variable.(©¦â«ÿÿÿÿÿ
+I
+java:S1481¿"2Remove this unused "dateNowFormat" local variable.(î³ÉŒ
+H
+java:S1481Â",Remove this unused "dateNow" local variable.(ñ«Ò¨ÿÿÿÿÿ
+>
+java:S1481Ä"'Remove this unused "lt" local variable.(Í¼Á¦
+R	java:S125È"<This block of commented-out lines of code should be removed.(Ü‚Üİ
+C
+java:S1481Ñ",Remove this unused "instant" local variable.(«¦Áö
+N	java:S106Ó"9Replace this use of System.out or System.err by a logger.(¬·àL
+V	java:S106Ü"9Replace this use of System.out or System.err by a logger.(ÜĞ¸ö8‚õ°’³0
+Y	java:S125Ş"<This block of commented-out lines of code should be removed.(ÍãıÜ8¬‹±’³0
+R	java:S125á"<This block of commented-out lines of code should be removed.(¹œãš
+_
+java:S1128"=Remove this unused import 'java.time.chrono.ChronoLocalDate'.(‘Ë¡°ÿÿÿÿÿ8¬‹±’³0
+W
+java:S1128
+":Remove this unused import 'java.time.temporal.ChronoUnit'.(Á…§8¬‹±’³0
+Q
+java:S1128"/Remove this unused import 'java.util.TimeZone'.(à‡Õùÿÿÿÿ8Íº±’³0
+I
+java:S1068".Remove this unused "DD_MM_YYYY" private field.(áªÇãüÿÿÿÿ
+C
+java:S1068".Remove this unused "YYYY_MM_DD" private field.(Ÿ¯§

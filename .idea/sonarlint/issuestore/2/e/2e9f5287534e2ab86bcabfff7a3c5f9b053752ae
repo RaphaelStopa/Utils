@@ -1,0 +1,20 @@
+
+m
+java:S11920"RDefine a constant instead of duplicating this literal "America/Sao_Paulo" 4 times.(ëŽ—ºúÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óÎ °ùÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+C	java:S108<")Either remove or fill this block of code.(âÃƒŠýÿÿÿÿ
+‡
+java:S1130D"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å
+S
+java:S6353B"=Use concise character class syntax '\\D' instead of '[^0-9]'.(¨ÿ¸
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(Œîú¹
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(Ú”ˆµ
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ˆç¦ 8½¢³ö±0
+N
+java:S1128"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8¬­²ö±0
+H
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8¬­²ö±0
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8¬­²ö±0
